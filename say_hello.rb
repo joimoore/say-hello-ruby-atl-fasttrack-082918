@@ -9,4 +9,4 @@ end
 
 hello_world
 say_hello "Joy"
-"say_hello"
+say_hello "world"
