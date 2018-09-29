@@ -8,5 +8,4 @@ def say_hello(name)
 end
 
 hello_world
-say_hello "Joi
-"
+say_hello "Joi"
