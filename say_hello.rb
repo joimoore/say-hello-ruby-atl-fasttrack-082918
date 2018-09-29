@@ -10,3 +10,7 @@ end
 hello_world
 say_hello "Joy"
 say_hello "world"
+def_hello world
+puts "say_hello (Gabriela")"
+puts name
+end
